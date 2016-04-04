@@ -169,7 +169,7 @@ Greeting.withName("SHOUT_GOOD_BYE")
 ### Play 2
 
 The `enumeratum-play` project is published separately and gives you access to various tools
-to help you avoid boilerplate in your Play project.
+to help you avoid boilerplate in your Play project. (for Play 2.4.x support, use versions <= 1.3.7)
 
 The included `PlayEnum` trait is probably going to be the most interesting as it includes a bunch
 of built-in implicits like Json formats, Path bindables, Query string bindables,
